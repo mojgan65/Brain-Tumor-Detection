@@ -13,8 +13,5 @@ This repository contains robust implementations for detecting brain tumors using
 **Dataset:**
 The repository utilizes the Brain Tumor MRI Dataset, which contains labeled MRI scans that assist in training and validating the models. More details about the dataset, its origin, and its structure can be found [here]https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset).
 
-**Getting Started:**
-Instructions for setting up, training, and testing the models are provided in the README. For those looking to get hands-on quickly, there are Jupyter Notebook demonstrations as well.
-
 **Contribute:**
 Contributions are welcome! Whether it's improving model accuracy, computational efficiency, or adding new methodologies, feel free to raise an issue or submit a pull request.
